@@ -51,12 +51,6 @@ conda activate tf_gpu
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
 
-3. **Install Python libraries:**
-
-pip install tensorflow==2.10.1 numpy==1.26.4 pandas matplotlib seaborn scikit-learn
-
-
----
 
 ## Directory Structure
 

@@ -38,20 +38,6 @@ It uses TensorFlow 2.10.1, runs on GPU if available, and includes data augmentat
 
 ---
 
-## Installation
-
-1. **Create a conda environment:**
-
-conda create -n tf_gpu python=3.10  
-conda activate tf_gpu
-
-
-2. **Install GPU dependencies (if using GPU):**
-
-conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
-
-
-
 ## Directory Structure
 
 project_root/  
